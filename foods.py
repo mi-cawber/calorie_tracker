@@ -2,7 +2,8 @@
 # (cals, protein) per unit
 whole_foods = {
     'egg': (77,6),
-    'banana': (105, 0)
+    'banana': (105, 0),
+    'wheat bread': (80, 3)
 }
 
 # structured as (cals/gram, protein/gram)
@@ -24,5 +25,6 @@ weighted_foods = {
     'brown rice': (1.1, 0.02),
     'raspberry': (0.52, 0),
     'broccoli': (0.34, 0),
-    'sweet potato': (0.86, 0.016)
+    'sweet potato': (0.86, 0.016),
+    'yogurt': (0.59, 0.10)
 }
